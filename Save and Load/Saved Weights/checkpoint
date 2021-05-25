@@ -1,0 +1,2 @@
+model_checkpoint_path: "manually_checkpoint"
+all_model_checkpoint_paths: "manually_checkpoint"
